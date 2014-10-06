@@ -1,0 +1,12 @@
+{
+  "name": "purescript-each",
+  "version": "0.0.0",
+  "description": "Generalization of Traversable.",
+  "license": "MIT",
+  "dependencies": {
+    "purescript-arrays": "~0.2.1",
+    "purescript-either": "~0.1.3",
+    "purescript-maybe": "~0.2.1",
+    "purescript-tuples": "~0.2.1"
+  }
+}

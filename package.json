@@ -1,0 +1,12 @@
+{
+  "name": "purescript-each",
+  "version": "0.0.0",
+  "description": "Generalization of Traversable.",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-purescript": "0.0.10",
+    "gulp-run": "^1.6.4",
+    "run-sequence": "^1.0.1"
+  }
+}
